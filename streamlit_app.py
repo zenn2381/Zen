@@ -5,4 +5,4 @@ st.write(
     "erm"
 )
 
-st.image("view/Screenshot 2024-05-03 002650.png")
+st.image("view/58c4bbef-284f-4647-b8d4-0ecd208327ca.jpg")
