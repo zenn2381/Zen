@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("Anjay mabar")
 st.write(
-    "Cihuyyyyyyyyyyyyyy"
+    "kata mamah ilham baong harus di pucul pake rumah"
 )
