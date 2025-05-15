@@ -7,4 +7,4 @@ erm...
 "
 )
 
-st.image("🌊Blue blured pfp🌊🐋🍃.jpeg") 
+st.image("Akhirnya.jpg", width=200) 
