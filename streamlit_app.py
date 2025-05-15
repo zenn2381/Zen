@@ -2,9 +2,6 @@ import streamlit as st
 
 st.title("Ardi Raya")
 st.write(
-  "
-erm...
-  "
+"erm..."
 )
-
 st.image("Akhirnya.jpg", width=200) 
