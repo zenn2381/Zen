@@ -5,4 +5,4 @@ st.write(
   "erm.. "
 )
 
-st.image("🌊Blue blured pfp🌊🐋🍃.jpeg ") 
+st.image("Blue blured pfp.jpeg ") 
