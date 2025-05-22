@@ -6,6 +6,7 @@ st.write(
 )
 st.image("Akhirnya.jpg", width=200)
 
+st.image("Akhirnya.jpg", width=200)
 
 st.title("Aplikasi Cihuy") 
 st.header("Aplikasi Sulap") 
