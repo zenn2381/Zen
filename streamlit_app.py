@@ -5,6 +5,7 @@ st.write(
 "AKHIRNYA BISA JUGA"
 )
 st.image("Akhirnya.jpg", width=200) 
+st.image("Akhirnya.jpg", width=200) 
 
 
 st.title("Aplikasi Cihuy") 
