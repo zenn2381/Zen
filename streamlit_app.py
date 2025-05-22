@@ -12,6 +12,6 @@ st.header("Aplikasi Sulap")
 angka = st.number_input("tulis sebuah angka:", value=0, step=1) 
 
 if (angka % 2) == 0:
-  st.write(f"{angka} adalah bilangan genap") 
+  st.write(f"{angka} adalah bilangan Genap Eak") 
 else:
-  st.write(f"{angka} adalah Bilangan Ganjil") 
+  st.write(f"{angka} adalah Bilangan Ganjil Roar") 
